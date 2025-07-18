@@ -44,7 +44,7 @@ android {
         targetSdkVersion 35
     }
 
-    namespace 'com.flutter.plugins.flutterpaypalnative'
+    namespace 'com.piccmaq.flutter_paypal_native'
 
 }
 
